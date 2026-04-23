@@ -4,6 +4,12 @@
 
 Me chamo Isaque, tenho 19 anos e sou natural de Brasília-DF. Sou formado no ensino médio com técnico em Administração e, atualmente, curso Análise e Desenvolvimento de Sistemas na UCB. Tenho grande interesse por tecnologia e estou sempre buscando evoluir e aprender mais na área.
 <p align="left">
+    <a href = "https://t.me/rodriguestw">
+      <img
+            alt="Telegram"
+            titlle="Telegram"
+            src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+            >
     <a href = "mailto:isaquerodrigues467@gmail.com">
       <img 
             alt="Meu gmail"
