@@ -5,9 +5,17 @@
 Me chamo Isaque, tenho 19 anos e sou natural de Brasília-DF. Sou formado no ensino médio com técnico em Administração e, atualmente, curso Análise e Desenvolvimento de Sistemas na UCB. Tenho grande interesse por tecnologia e estou sempre buscando evoluir e aprender mais na área.
 <p align="left">
     <a href = "mailto:isaquerodrigues467@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/isaquerodriguesdev/](https://www.linkedin.com/in/isaquerodriguesdev/)" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <img 
+            alt="Meu gmail"
+            tittle="Gmail"
+            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
+            target="_blank">
+            </a>
+    <a href="https://www.linkedin.com/in/isaquerodriguesdev/" target="_blank">
+    <img 
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
+            tittle="Linkedin">
+           </a> 
     <a href="https://github.com/rodriguestw?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
